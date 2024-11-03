@@ -1,12 +1,8 @@
 # Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzobloise&show_icons=true&theme=highcontrast)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzobloise&layout=compact&theme=highcontrast&hide=jupyter_notebook)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lorenzobloise" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lorenzobloise&theme=vision-friendly-dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lorenzobloise&layout=compact&hide=jupyter%20notebook" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lorenzobloise&layout=compact&hide=jupyter%20notebook&theme=vision-friendly-dark" />
 </a>
